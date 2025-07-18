@@ -11,7 +11,7 @@ Melbourne, Victoria, Australia
 
 ## Important Dates
 
- - Submission Deadline: **July 25, 2025 (UTC-12)**
+ - Submission Deadline: ~~July 25, 2025~~ **August 1st, 2025 (UTC-12)**
  - Author Notification: August 15, 2025
  - Camera-Ready Deadline: September 10, 2025
  - ICAPS 2025 Workshops: November 10 or 11, 2025
